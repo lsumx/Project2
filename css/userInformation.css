@@ -1,0 +1,106 @@
+body{
+    margin-left: 5%;margin-right: 5%;
+}
+.div1{
+    margin-top: 1em;
+    padding-top: 1em;
+    float: left;
+    background-color: #dffefe;
+}
+.div1 button{
+    height: 35px;float: right;
+    background-color: #a0ebc8;font-size: 18px;
+    margin-bottom: 0.5em;margin-top: 0.5em;
+    font-family: 微软雅黑;
+    border: 1px solid #a0ebc8;
+    box-shadow: 0 1px 2px #99ffcc inset, 0 -1px 0 #a3d5b8 inset;
+    margin-top: 1em;margin-right: 1em;
+}
+.div2{
+    padding-left: 1em;
+    padding-top: 1em;
+    margin-top: 1em;
+    background-color: #fefedf;
+    float: right;
+    width: 80%;
+}
+.div3{
+    padding-left: 1em;
+    margin-top: 1em;
+    background-color: #ffe4c4;
+    float: right;
+    width: 80%;
+}
+.div4{
+    padding-left: 1em;
+    padding-top: 1em;
+    margin-top: 1em;
+    background-color: #ccff99;
+    float: right;
+    width: 80%;
+}
+/*#div3 table{*/
+    /*margin: 1em 1em 1em 1em;*/
+    /*width: 95%;*/
+    /*border: 1px solid black;*/
+
+/*}*/
+/*table tr td{*/
+    /*border: 1px solid black;*/
+    /*border-collapse: collapse;*/
+/*}*/
+.img{
+    width: 10%;
+    float: left;
+    padding: 15px 15px 15px 15px;
+}
+.p1{
+    padding-top: 15px;font-weight: bold;
+    font-size: 1em;
+    font-family: "Lucida Calligraphy";
+}
+.p2{
+    font-family: "Lucida Handwriting";
+}
+.p3{
+    font-family: "Century";
+    margin-bottom: 0;
+}
+.title{
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-align: center;
+    list-style: none;
+}
+.box{
+    position: relative;
+    margin: 0;padding: 0;
+    text-align: center;
+}
+.price{
+    margin-bottom: 20px;
+     width: 262px;
+    padding: 9px 10px 10px 36px\9;
+    *height: 26px;
+    display: block;
+    background-color: #f5f5f5;
+    color: #333;
+    position: center;
+    height: 35px;
+    line-height: 35px;border: none;
+    padding: 0 10px 0 36px;
+    margin-left: 25%;
+}
+.btn{
+    display: inline-block;
+    text-align: center;
+    width: 99px;
+    height: 29px;
+    line-height: 29px;
+    color: #e4393c;
+    border: 1px solid #e4393c;
+    border-radius: 1px;
+    background-color: #fff;
+    cursor: pointer;
+}
+

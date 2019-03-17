@@ -1,0 +1,82 @@
+body{
+    margin-left: 5%;margin-right: 5%;
+}
+
+#div_big{
+    background-color: #f7f7f7;
+
+}
+.div_small{
+    margin: 0;padding: 0;
+    background-color: #fffac8;height:225px;
+}
+#p1,#p2{
+    font-size: 1em;
+}
+.p1{
+   font-weight: bold;
+    font-size: 1em;
+    font-family: "Lucida Calligraphy";
+}
+.p2{
+    font-family: "Lucida Handwriting";
+}
+.p3{
+    font-family: "Century";
+    margin-bottom: 0;
+}
+.btn1{
+    height: 35px;width: 100px;
+    background-color: #8cdcfa;font-size: 18px;
+    margin-bottom: 0.5em;margin-top: 0.5em;
+    font-family: 微软雅黑;
+    border: 1px solid #2576A8;
+    box-shadow: 0 1px 2px #B8DCF1 inset, 0 -1px 0 #316F96 inset;
+    margin-left: 100px;
+}
+.btn2{
+    height: 35px;width: 100px;
+    background-color: #fab4aa;font-size: 18px;
+    margin-bottom: 0.5em;margin-top: 0.5em;
+    font-family: 微软雅黑;
+    border: 1px solid #ffcc99;
+    box-shadow: 0 1px 2px #ffcc99 inset, 0 -1px 0 #e6bd93 inset;
+}
+.btn3{
+    height: 35px;float: right;
+    background-color: #a0ebc8;font-size: 18px;
+    margin-bottom: 0.5em;margin-top: 0.5em;
+    font-family: 微软雅黑;
+    border: 1px solid #a0ebc8;
+    box-shadow: 0 1px 2px #99ffcc inset, 0 -1px 0 #a3d5b8 inset;
+    margin-top: 1em;
+}
+.img{
+    width: 10%;
+    float: left;
+    padding: 15px 15px 15px 15px;
+}
+#div{
+    text-align: center;
+    margin-top: 15px;
+    clear: both;
+}
+#div a{
+    text-decoration: none;
+    border: 1px solid #66B5E6;
+    padding: 5px 15px;
+    margin: 1px 1px;
+    color: #767675;
+    cursor: pointer;
+}
+#div a:hover{
+    color: red;
+}
+#div span{
+    text-decoration: none;
+    border: 1px solid #66B5E6;
+    padding: 5px 15px;
+    margin: 1px 1px;
+    color: #767675;
+    cursor: pointer;
+}
